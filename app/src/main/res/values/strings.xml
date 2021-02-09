@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps4Me</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps4Me_title">Mis Lugares Favoritos</string>
+</resources>
